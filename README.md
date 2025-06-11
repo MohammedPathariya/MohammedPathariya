@@ -34,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedPathariya/MohammedPathariya/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MohammedPathariya/MohammedPathariya/output/github-snake.svg" />
 </picture>
+
+<p align="center"> 💬 Feel free to connect with me or check out my work above! </p>
