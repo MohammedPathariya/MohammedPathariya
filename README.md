@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Pathariya</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**MohammedPathariya/MohammedPathariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=github&style=for-the-badge" /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw2cDB1OWVvajNzMjJxYmE3emRudXZkZWV1aWtwOXppbjkxcDl1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="400"/>
+</p>
+
+<h2> 🚀 &nbsp;Tech Stack</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedPathariya&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedPathariya&layout=compact&theme=radical" />
+</p>
+
+![Snake animation](https://github.com/MohammedPathariya/MohammedPathariya/blob/output/github-contribution-grid-snake.svg)
