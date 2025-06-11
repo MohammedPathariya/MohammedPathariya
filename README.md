@@ -22,14 +22,13 @@
 </p>
 
 
-<h2> 🚀 &nbsp;GitHub Stats</h2>
+<h2> 📊 &nbsp;GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedPathariya&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedPathariya&layout=compact&theme=radical" />
 </p>
 
-### 🐍 Watch my contributions graph get eaten by a snake!
-
+<h2> 🐍 &nbsp;Watch my contributions graph get eaten by a snake!</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedPathariya/MohammedPathariya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedPathariya/MohammedPathariya/output/github-snake.svg" />
