@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mjpathariya/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=github&style=for-the-badge" /></a>
 </p>
 
