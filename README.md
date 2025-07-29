@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Pathariya</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub&animation=fadeIn&type=waving&color=gradient&height=120&colorStart=%232F4F4F&colorEnd=%23D4AF37"/>
 </p>
 
 <p align="center">
