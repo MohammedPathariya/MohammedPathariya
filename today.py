@@ -227,7 +227,9 @@ def justify_format(root, element_id, new_text, length=0):
     find_and_replace(root, element_id, new_text)
     just_len = max(0, length - len(new_text))
     if just_len <= 2:
-        dot_map = {0: '', 1: ' ', 2: '. '}
+        # Always keep at least one space, even if the value is as long
+        # or longer than the target padding length (just_len == 0 case).
+        dot_map = {0: ' ', 1: ' ', 2: '. '}
         dot_string = dot_map[just_len]
     else:
         dot_string = ' ' + ('.' * just_len) + ' '
