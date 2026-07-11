@@ -1,4 +1,3 @@
-<h2> 📊 &nbsp;Training Log</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
