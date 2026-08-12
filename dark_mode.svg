@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="530px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="480px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -18,7 +18,7 @@ size-adjust: 109%;
 .link {fill: #d2a8ff;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="880px" height="530px" fill="#0d1117" rx="12"/>
+<rect width="880px" height="480px" fill="#0d1117" rx="12"/>
 <!-- header -->
 <text x="24" y="34" fill="#c9d1d9">
 <tspan class="prompt">mohammed@training_run</tspan><tspan class="dim"> ~ %</tspan> <tspan class="dim">tail -f run.log</tspan>
@@ -28,22 +28,22 @@ text, tspan {white-space: pre;}
 </text>
 <!-- init block -->
 <text x="24" y="82" fill="#c9d1d9">
-<tspan x="24" y="82"><tspan class="dim">[INIT]</tspan> <tspan class="key">identity</tspan>     <tspan class="cc">:</tspan> <tspan class="value">Mohammed Johar Pathariya</tspan></tspan>
-<tspan x="24" y="106"><tspan class="dim">[INIT]</tspan> <tspan class="key">role</tspan>         <tspan class="cc">:</tspan> <tspan class="value">ML Engineer | Graduate Researcher</tspan></tspan>
-<tspan x="24" y="130"><tspan class="dim">[INIT]</tspan> <tspan class="key">focus</tspan>       <tspan class="cc">:</tspan> <tspan class="value">Applied ML, Generative AI, Data Systems</tspan></tspan>
-<tspan x="24" y="154"><tspan class="dim">[INIT]</tspan> <tspan class="key">stack</tspan>       <tspan class="cc">:</tspan> <tspan class="value">Python, SQL, PyTorch, TensorFlow, Hugging Face, CrewAI</tspan></tspan>
-<tspan x="24" y="178"><tspan class="dim">[INIT]</tspan> <tspan class="key">compute</tspan>     <tspan class="cc">:</tspan> <tspan class="value">Docker, Azure, GCP, HPC Clusters</tspan></tspan>
+<tspan x="24" y="82"><tspan class="dim">[INIT]</tspan> <tspan class="key">identity</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">Mohammed Johar Pathariya</tspan></tspan>
+<tspan x="24" y="106"><tspan class="dim">[INIT]</tspan> <tspan class="key">role</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">ML Engineer | Graduate Researcher</tspan></tspan>
+<tspan x="24" y="130"><tspan class="dim">[INIT]</tspan> <tspan class="key">focus</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">Applied ML, Generative AI, Data Systems</tspan></tspan>
+<tspan x="24" y="154"><tspan class="dim">[INIT]</tspan> <tspan class="key">stack</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">Python, SQL, PyTorch, TensorFlow, Hugging Face, CrewAI</tspan></tspan>
+<tspan x="24" y="178"><tspan class="dim">[INIT]</tspan> <tspan class="key">compute</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">Docker, Azure, GCP, HPC Clusters</tspan></tspan>
 </text>
 <text x="24" y="202" class="cc">
 <tspan>────────────────────────────────────────────────────────────────────────</tspan>
 </text>
 <!-- run block -->
 <text x="24" y="230" fill="#c9d1d9">
-<tspan x="24" y="230"><tspan class="dim">[RUN]</tspan>  <tspan class="key">building</tspan>     <tspan class="cc">:</tspan> <tspan class="value">End-to-end machine learning and AI systems</tspan></tspan>
-<tspan x="24" y="254"><tspan class="dim">[RUN]</tspan>  <tspan class="key">systems</tspan>      <tspan class="cc">:</tspan> <tspan class="value">TheDigitalForge | LearnLoop | AudioGroove</tspan></tspan>
-<tspan x="24" y="278"><tspan class="dim">[RUN]</tspan>  <tspan class="key">research</tspan>     <tspan class="cc">:</tspan> <tspan class="value">NLP, LLM post-training, audio ML</tspan></tspan>
-<tspan x="24" y="302"><tspan class="dim">[RUN]</tspan>  <tspan class="key">objective</tspan>    <tspan class="cc">:</tspan> <tspan class="value">ML Engineer | Data Engineering</tspan></tspan>
-<tspan x="24" y="326"><tspan class="dim">[RUN]</tspan>  <tspan class="key">checkpoint</tspan>  <tspan class="cc">:</tspan> <tspan class="value">LLM post-training with RLHF / DPO</tspan></tspan>
+<tspan x="24" y="230"><tspan class="dim">[RUN]</tspan>  <tspan class="key">building</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">End-to-end machine learning and AI systems</tspan></tspan>
+<tspan x="24" y="254"><tspan class="dim">[RUN]</tspan>  <tspan class="key">systems</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">TheDigitalForge | LearnLoop | AudioGroove</tspan></tspan>
+<tspan x="24" y="278"><tspan class="dim">[RUN]</tspan>  <tspan class="key">research</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">NLP, LLM post-training, audio ML</tspan></tspan>
+<tspan x="24" y="302"><tspan class="dim">[RUN]</tspan>  <tspan class="key">objective</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">ML Engineer | Data Engineering</tspan></tspan>
+<tspan x="24" y="326"><tspan class="dim">[RUN]</tspan>  <tspan class="key">checkpoint</tspan><tspan x="185" class="cc">:</tspan><tspan x="199" class="value">LLM post-training with RLHF / DPO</tspan></tspan>
 </text>
 <text x="24" y="350" class="cc">
 <tspan>────────────────────────────────────────────────────────────────────────</tspan>
@@ -59,8 +59,5 @@ text, tspan {white-space: pre;}
 <tspan class="key">lines of code</tspan><tspan class="cc" id="loc_data_dots"> </tspan><tspan class="value" id="loc_data">4,762,231</tspan> <tspan class="dim">(</tspan><tspan class="addColor" id="loc_add">4,950,971</tspan><tspan class="addColor">++</tspan><tspan class="dim">,</tspan><tspan class="cc" id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">188,740</tspan><tspan class="delColor">--</tspan><tspan class="dim">)</tspan>
 </text>
 <!-- followers hidden for now: id="follower_data" / id="follower_data_dots" -->
-<!-- contact -->
-<text x="24" y="494" fill="#c9d1d9">
-<tspan class="link">linkedin.com/in/mjpathariya</tspan><tspan class="dim">  ·  </tspan><tspan class="link">mjpathariya.com</tspan><tspan class="dim">  ·  </tspan><tspan class="link">mjpathariya7@gmail.com</tspan>
-</text>
+<!-- contact links are rendered as clickable Markdown in README.md -->
 </svg>
